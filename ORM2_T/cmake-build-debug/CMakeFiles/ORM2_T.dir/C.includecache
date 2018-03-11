@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dushn/Desktop/ORM2_T/main.c
+stdlib.h
+-
+netinet/in.h
+-
+time.h
+-
+string.h
+-
+pthread.h
+-
+zconf.h
+-
+pcap.h
+/home/dushn/Desktop/ORM2_T/pcap.h
+

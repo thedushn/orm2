@@ -1,0 +1,50 @@
+<application>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/CLionProjects/ORM2_CLIENT" />
+        <option value="/home/dushn/Desktop/ORM2_T" />
+        <option value="/home/dushn/CLionProjects/testing-orm2" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/CLionProjects/ORM2_CLIENT" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="/home/dushn/CLionProjects/testing-orm2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="CL-171.4694.31" />
+              <option name="productionCode" value="CL" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1519829285639" />
+              <option name="buildTimestamp" value="1496874036570" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/home/dushn/Desktop/ORM2_T">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="CL-171.4694.31" />
+              <option name="productionCode" value="CL" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1519829509926" />
+              <option name="buildTimestamp" value="1496874036570" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/CLionProjects/ORM2_CLIENT">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="CL-171.4694.31" />
+              <option name="productionCode" value="CL" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1519830221565" />
+              <option name="buildTimestamp" value="1496874036570" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/CLionProjects" />
+  </component>
+</application>

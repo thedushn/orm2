@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="PythonTestConverterProvider" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="/home/dushn/Desktop/ORM2_T/.idea/ORM2_T.iml" timestamp="1519827840000" />
+    <file path="/home/dushn/Desktop/ORM2_T/.idea/dictionaries/dushn.xml" timestamp="1519827886000" />
+    <file path="/home/dushn/Desktop/ORM2_T/.idea/misc.xml" timestamp="1519827886000" />
+    <file path="/home/dushn/Desktop/ORM2_T/.idea/modules.xml" timestamp="1519827822000" />
+    <file path="/home/dushn/Desktop/ORM2_T/.idea/workspace.xml" timestamp="1519828941000" />
+  </project-files>
+</conversion>
+

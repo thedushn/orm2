@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="PythonTestConverterProvider" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="/home/dushn/CLionProjects/testing-orm2/.idea/misc.xml" timestamp="1498550516000" />
+    <file path="/home/dushn/CLionProjects/testing-orm2/.idea/modules.xml" timestamp="1498550335000" />
+    <file path="/home/dushn/CLionProjects/testing-orm2/.idea/testing.iml" timestamp="1498550516000" />
+    <file path="/home/dushn/CLionProjects/testing-orm2/.idea/workspace.xml" timestamp="1506067932000" />
+  </project-files>
+</conversion>
+

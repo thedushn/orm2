@@ -1,0 +1,1 @@
+/usr/bin/cc   -pthread -Wall  -g   CMakeFiles/ORM2_CLIENT.dir/main.c.o  -o ORM2_CLIENT -lpcap 

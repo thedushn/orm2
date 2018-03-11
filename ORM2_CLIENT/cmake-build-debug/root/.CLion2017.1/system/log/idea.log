@@ -1,0 +1,291 @@
+2018-02-28 15:45:07,426 [      0]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2018-02-28 15:45:07,443 [     17]   INFO -        #com.intellij.idea.Main - IDE: CLion (build #CL-171.4694.31, 08 Jun 2017 00:50) 
+2018-02-28 15:45:07,443 [     17]   INFO -        #com.intellij.idea.Main - OS: Linux (4.13.0-36-generic, amd64) 
+2018-02-28 15:45:07,443 [     17]   INFO -        #com.intellij.idea.Main - JRE: 1.8.0_112-release-736-b21 (JetBrains s.r.o) 
+2018-02-28 15:45:07,443 [     17]   INFO -        #com.intellij.idea.Main - JVM: 25.112-b21 (OpenJDK 64-Bit Server VM) 
+2018-02-28 15:45:07,445 [     19]   INFO -        #com.intellij.idea.Main - JVM Args: -Xbootclasspath/a:../lib/boot.jar -Xss2m -Xms256m -Xmx2000m -XX:NewSize=128m -XX:MaxNewSize=128m -XX:ReservedCodeCacheSize=240m -XX:+UseConcMarkSweepGC -XX:SoftRefLRUPolicyMSPerMB=50 -ea -Dsun.io.useCanonCaches=false -Djava.net.preferIPv4Stack=true -XX:+HeapDumpOnOutOfMemoryError -XX:-OmitStackTraceInFastThrow -Dawt.useSystemAAFontSettings=lcd -Dsun.java2d.renderer=sun.java2d.marlin.MarlinRenderingEngine -XX:ErrorFile=/home/dushn/java_error_in_CL_%p.log -XX:HeapDumpPath=/home/dushn/java_error_in_CL.hprof -Didea.paths.selector=CLion2017.1 -Djb.vmOptionsFile=./clion64.vmoptions -Didea.platform.prefix=CLion 
+2018-02-28 15:45:07,445 [     19]   INFO -        #com.intellij.idea.Main - ext: /home/dushn/clion/clion-2017.1.3/jre64/lib/ext: [jaccess.jar, dnsns.jar, nashorn.jar, meta-index, localedata.jar, sunpkcs11.jar, sunec.jar, sunjce_provider.jar, jfxrt.jar, cldrdata.jar, zipfs.jar] 
+2018-02-28 15:45:07,451 [     25]   INFO -        #com.intellij.idea.Main - JNU charset: UTF-8 
+2018-02-28 15:45:07,489 [     63]   INFO -        #com.intellij.idea.Main - JNA library (64-bit) loaded in 38 ms 
+2018-02-28 15:45:16,838 [   9412]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE SHUTDOWN ------------------------------------------------------ 
+2018-02-28 15:45:16,871 [   9445]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2018-02-28 15:45:21,038 [      0]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2018-02-28 15:45:21,048 [     10]   INFO -     #com.intellij.util.ui.JBUI - User scale factor: 1.0 
+2018-02-28 15:45:21,048 [     10]   INFO -     #com.intellij.util.ui.JBUI - System scale factor: 1.25 (IDE-managed HiDPI) 
+2018-02-28 15:45:21,059 [     21]   INFO -        #com.intellij.idea.Main - IDE: CLion (build #CL-171.4694.31, 08 Jun 2017 00:21) 
+2018-02-28 15:45:21,059 [     21]   INFO -        #com.intellij.idea.Main - OS: Linux (4.13.0-36-generic, amd64) 
+2018-02-28 15:45:21,059 [     21]   INFO -        #com.intellij.idea.Main - JRE: 1.8.0_112-release-736-b21 (JetBrains s.r.o) 
+2018-02-28 15:45:21,059 [     21]   INFO -        #com.intellij.idea.Main - JVM: 25.112-b21 (OpenJDK 64-Bit Server VM) 
+2018-02-28 15:45:21,060 [     22]   INFO -        #com.intellij.idea.Main - JVM Args: -Xbootclasspath/a:../lib/boot.jar -Xss2m -Xms256m -Xmx2000m -XX:NewSize=128m -XX:MaxNewSize=128m -XX:ReservedCodeCacheSize=240m -XX:+UseConcMarkSweepGC -XX:SoftRefLRUPolicyMSPerMB=50 -ea -Dsun.io.useCanonCaches=false -Djava.net.preferIPv4Stack=true -XX:+HeapDumpOnOutOfMemoryError -XX:-OmitStackTraceInFastThrow -Dawt.useSystemAAFontSettings=lcd -Dsun.java2d.renderer=sun.java2d.marlin.MarlinRenderingEngine -XX:ErrorFile=/home/dushn/java_error_in_CL_%p.log -XX:HeapDumpPath=/home/dushn/java_error_in_CL.hprof -Didea.paths.selector=CLion2017.1 -Djb.vmOptionsFile=./clion64.vmoptions -Didea.platform.prefix=CLion 
+2018-02-28 15:45:21,060 [     22]   INFO -        #com.intellij.idea.Main - ext: /home/dushn/clion/clion-2017.1.3/jre64/lib/ext: [jaccess.jar, dnsns.jar, nashorn.jar, meta-index, localedata.jar, sunpkcs11.jar, sunec.jar, sunjce_provider.jar, jfxrt.jar, cldrdata.jar, zipfs.jar] 
+2018-02-28 15:45:21,060 [     22]   INFO -        #com.intellij.idea.Main - JNU charset: UTF-8 
+2018-02-28 15:45:21,074 [     36]   INFO -        #com.intellij.idea.Main - JNA library (64-bit) loaded in 13 ms 
+2018-02-28 15:46:30,557 [  69519]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE SHUTDOWN ------------------------------------------------------ 
+2018-02-28 15:46:30,573 [  69535]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2018-02-28 15:46:57,112 [      0]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2018-02-28 15:46:57,122 [     10]   INFO -     #com.intellij.util.ui.JBUI - User scale factor: 1.0 
+2018-02-28 15:46:57,122 [     10]   INFO -     #com.intellij.util.ui.JBUI - System scale factor: 1.25 (IDE-managed HiDPI) 
+2018-02-28 15:46:57,133 [     21]   INFO -        #com.intellij.idea.Main - IDE: CLion (build #CL-171.4694.31, 08 Jun 2017 00:57) 
+2018-02-28 15:46:57,133 [     21]   INFO -        #com.intellij.idea.Main - OS: Linux (4.13.0-36-generic, amd64) 
+2018-02-28 15:46:57,133 [     21]   INFO -        #com.intellij.idea.Main - JRE: 1.8.0_112-release-736-b21 (JetBrains s.r.o) 
+2018-02-28 15:46:57,133 [     21]   INFO -        #com.intellij.idea.Main - JVM: 25.112-b21 (OpenJDK 64-Bit Server VM) 
+2018-02-28 15:46:57,134 [     22]   INFO -        #com.intellij.idea.Main - JVM Args: -Xbootclasspath/a:../lib/boot.jar -Xss2m -Xms256m -Xmx2000m -XX:NewSize=128m -XX:MaxNewSize=128m -XX:ReservedCodeCacheSize=240m -XX:+UseConcMarkSweepGC -XX:SoftRefLRUPolicyMSPerMB=50 -ea -Dsun.io.useCanonCaches=false -Djava.net.preferIPv4Stack=true -XX:+HeapDumpOnOutOfMemoryError -XX:-OmitStackTraceInFastThrow -Dawt.useSystemAAFontSettings=lcd -Dsun.java2d.renderer=sun.java2d.marlin.MarlinRenderingEngine -XX:ErrorFile=/home/dushn/java_error_in_CL_%p.log -XX:HeapDumpPath=/home/dushn/java_error_in_CL.hprof -Didea.paths.selector=CLion2017.1 -Djb.vmOptionsFile=./clion64.vmoptions -Didea.platform.prefix=CLion 
+2018-02-28 15:46:57,134 [     22]   INFO -        #com.intellij.idea.Main - ext: /home/dushn/clion/clion-2017.1.3/jre64/lib/ext: [jaccess.jar, dnsns.jar, nashorn.jar, meta-index, localedata.jar, sunpkcs11.jar, sunec.jar, sunjce_provider.jar, jfxrt.jar, cldrdata.jar, zipfs.jar] 
+2018-02-28 15:46:57,134 [     22]   INFO -        #com.intellij.idea.Main - JNU charset: UTF-8 
+2018-02-28 15:46:57,149 [     37]   INFO -        #com.intellij.idea.Main - JNA library (64-bit) loaded in 13 ms 
+2018-02-28 15:47:14,161 [  17049]   INFO - .license.impl.JetprofileSource - Unexpected JBA connection error: java.lang.Exception: Authorization failed: Wrong username or password 
+2018-02-28 15:47:32,146 [  35034]   INFO - .intellij.idea.IdeaApplication - WM detected: Compiz 
+2018-02-28 15:47:33,081 [  35969]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor intellilang-js-support.xml 
+2018-02-28 15:47:33,087 [  35975]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor js-nashorn-support.xml 
+2018-02-28 15:47:34,017 [  36905]   INFO - llij.ide.plugins.PluginManager - 26 plugins initialized in 1430 ms 
+2018-02-28 15:47:34,017 [  36905]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: CSS Support (171.4694.31), CVS Integration (11), CoffeeScript (2.0), Git Integration (8.1), GitHub (171.4694.31), HTML Tools (2.0), IDEA CORE (171.4694.31), JavaScript Debugger (1.0), JavaScript Intention Power Pack (0.9.4), JavaScript Support (1.0), Less support (171.4694.31), Perforce Integration (2.0), PyCharm Community Edition for CLion (171.4694.31), REST Client (171.4694.31), Remote Hosts Access (0.1), Sass support (171.4694.31), Settings Repository (171.4694.31), Stylus support (999.999), Subversion Integration (1.1), TFS Integration (999.999), Task Management (1.0), Terminal (0.1), Time Tracking (1.0), XPathView + XSLT Support (4), YAML (171.4694.31), hg4idea (10.0) 
+2018-02-28 15:47:34,979 [  37867]   INFO - ellij.vfs.persistent.FSRecords - Marking VFS as corrupted: '/root/.CLion2017.1/system/caches/names.dat' does not exist 
+2018-02-28 15:47:34,980 [  37868]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=1967 
+2018-02-28 15:47:35,042 [  37930]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: /home/dushn/clion/clion-2017.1.3/bin/fsnotifier64 
+2018-02-28 15:47:35,061 [  37949]   INFO - pl.local.NativeFileWatcherImpl - Native file watcher is operational. 
+2018-02-28 15:47:36,061 [  38949]   INFO - .history.utils.LocalHistoryLog - local history version mismatch (was: 0, expected: 6), rebuilding... 
+2018-02-28 15:47:36,061 [  38949]   INFO - .history.utils.LocalHistoryLog - FS has been rebuild, rebuilding local history... 
+2018-02-28 15:47:36,357 [  39245]   INFO - til.net.ssl.CertificateManager - Default SSL context initialized 
+2018-02-28 15:47:36,411 [  39299]   INFO - figurations.GeneralCommandLine - Cannot run program "/home/dushn/clion/clion-2017.1.3/bin/java": error=2, No such file or directory 
+java.io.IOException: Cannot run program "/home/dushn/clion/clion-2017.1.3/bin/java": error=2, No such file or directory
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1048)
+	at com.intellij.execution.configurations.GeneralCommandLine.startProcess(GeneralCommandLine.java:405)
+	at com.intellij.execution.configurations.GeneralCommandLine.createProcess(GeneralCommandLine.java:375)
+	at com.intellij.execution.process.OSProcessHandler.<init>(OSProcessHandler.java:45)
+	at com.intellij.execution.process.CapturingProcessHandler.<init>(CapturingProcessHandler.java:38)
+	at com.intellij.execution.util.ExecUtil.execAndGetOutput(ExecUtil.java:100)
+	at com.intellij.util.JdkBundle.a(JdkBundle.java:221)
+	at com.intellij.util.JdkBundle.createBundle(JdkBundle.java:92)
+	at com.intellij.util.JdkBundle.createBoot(JdkBundle.java:125)
+	at com.intellij.util.JdkBundle.createBoot(JdkBundle.java:113)
+	at com.intellij.ide.SystemHealthMonitor.e(SystemHealthMonitor.java:86)
+	at com.intellij.ide.SystemHealthMonitor.initComponent(SystemHealthMonitor.java:75)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl$ComponentConfigComponentAdapter.getComponentInstance(ComponentManagerImpl.java:491)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl.createComponents(ComponentManagerImpl.java:120)
+	at com.intellij.openapi.application.impl.ApplicationImpl.a(ApplicationImpl.java:466)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.a(CoreProgressManager.java:176)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.a(CoreProgressManager.java:556)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:501)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:66)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:163)
+	at com.intellij.openapi.application.impl.ApplicationImpl.createComponents(ApplicationImpl.java:473)
+	at com.intellij.openapi.components.impl.ComponentManagerImpl.init(ComponentManagerImpl.java:104)
+	at com.intellij.openapi.application.impl.ApplicationImpl.load(ApplicationImpl.java:425)
+	at com.intellij.openapi.application.impl.ApplicationImpl.load(ApplicationImpl.java:411)
+	at com.intellij.idea.IdeaApplication.run(IdeaApplication.java:203)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.intellij.idea.MainImpl$1$1.a(MainImpl.java:63)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:762)
+	at java.awt.EventQueue.access$500(EventQueue.java:98)
+	at java.awt.EventQueue$3.run(EventQueue.java:715)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:732)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:343)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+Caused by: java.io.IOException: error=2, No such file or directory
+	at java.lang.UNIXProcess.forkAndExec(Native Method)
+	at java.lang.UNIXProcess.<init>(UNIXProcess.java:247)
+	at java.lang.ProcessImpl.start(ProcessImpl.java:134)
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1029)
+	... 44 more
+2018-02-28 15:47:36,473 [  39361]   INFO - rains.ide.BuiltInServerManager - built-in server started, port 63342 
+2018-02-28 15:47:36,565 [  39453]   INFO - gs.impl.UpdateCheckerComponent - channel: release 
+2018-02-28 15:47:36,898 [  39786]   INFO - il.indexing.FileBasedIndexImpl - Index exts enumerated:111 
+2018-02-28 15:47:36,919 [  39807]   INFO - il.indexing.FileBasedIndexImpl - Index scheduled:21 
+2018-02-28 15:47:37,092 [  39980]   INFO - tellij.psi.stubs.StubIndexImpl - All stub exts enumerated:164 
+2018-02-28 15:47:37,093 [  39981]   INFO - tellij.psi.stubs.StubIndexImpl - stub exts update scheduled:0 
+2018-02-28 15:47:37,198 [  40086]   INFO - j.ide.script.IdeStartupScripts - 0 startup script(s) found 
+2018-02-28 15:47:38,698 [  41586]   INFO - plication.impl.ApplicationImpl - 81 application components initialized in 6144ms 
+2018-02-28 15:47:38,723 [  41611]   INFO - ij.psi.stubs.StubUpdatingIndex - Following new file types will be indexed:ActionScript,LLDBCommands,Stylus,GDBCommands,TypeScript,ECMAScript 6,PythonStub,HTML,Less,XML,Literate CoffeeScript,Flow,CSS,TypeScript JSX,SCSS,JavaScript,Sass,CoffeeScript,JSX Harmony,Python 
+2018-02-28 15:47:38,749 [  41637]   INFO - .intellij.idea.IdeaApplication - App initialization took 42868 ms 
+2018-02-28 15:47:39,491 [  42379]   INFO - pl$FileIndexDataInitialization - Initialization done:2575 
+2018-02-28 15:47:40,464 [  43352]   INFO - exImpl$StubIndexInitialization - Initialization done:972 
+2018-02-28 15:47:41,428 [  44316]   INFO - ellij.project.impl.ProjectImpl - 17 project components initialized in 652 ms 
+2018-02-28 15:47:41,999 [  44887]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=11, fontScale=null; restored: fontSize=11, fontScale=1.25 
+2018-02-28 15:47:41,999 [  44887]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=null; restored: fontSize=12, fontScale=1.25 
+2018-02-28 15:47:42,020 [  44908]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=null; restored: fontSize=12, fontScale=1.25 
+2018-02-28 15:47:42,020 [  44908]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=13, fontScale=null; restored: fontSize=13, fontScale=1.25 
+2018-02-28 15:47:42,038 [  44926]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=null; restored: fontSize=12, fontScale=1.25 
+2018-02-28 15:47:42,119 [  45007]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=null; restored: fontSize=12, fontScale=1.25 
+2018-02-28 15:47:42,119 [  45007]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=13, fontScale=null; restored: fontSize=13, fontScale=1.25 
+2018-02-28 15:47:42,189 [  45077]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=null; restored: fontSize=12, fontScale=1.25 
+2018-02-28 15:47:42,189 [  45077]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=13, fontScale=null; restored: fontSize=13, fontScale=1.25 
+2018-02-28 15:47:42,212 [  45100]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=11, fontScale=null; restored: fontSize=11, fontScale=1.25 
+2018-02-28 15:47:42,212 [  45100]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=13, fontScale=null; restored: fontSize=13, fontScale=1.25 
+2018-02-28 15:47:42,226 [  45114]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=null; restored: fontSize=12, fontScale=1.25 
+2018-02-28 15:47:42,226 [  45114]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=13, fontScale=null; restored: fontSize=13, fontScale=1.25 
+2018-02-28 15:47:42,570 [  45458]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.openapi.actionSystem.impl.ActionPreloader@8d13f8 
+2018-02-28 15:47:43,883 [  46771]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.ide.ui.search.SearchableOptionPreloader@23f48ddc 
+2018-02-28 15:47:44,551 [  47439]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.codeInsight.completion.CompletionPreloader@535a60db 
+2018-02-28 15:47:58,844 [  61732]   INFO - ateSettings.impl.UpdateChecker - www.jetbrains.com 
+java.net.UnknownHostException: www.jetbrains.com
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:184)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:668)
+	at sun.net.NetworkClient.doConnect(NetworkClient.java:175)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:432)
+	at sun.net.www.http.HttpClient.openServer(HttpClient.java:527)
+	at sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:264)
+	at sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:367)
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:191)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1148)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:999)
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:177)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1513)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1441)
+	at java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:480)
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:338)
+	at com.intellij.util.io.HttpRequests.openConnection(HttpRequests.java:511)
+	at com.intellij.util.io.HttpRequests.access$300(HttpRequests.java:61)
+	at com.intellij.util.io.HttpRequests$RequestImpl.getConnection(HttpRequests.java:289)
+	at com.intellij.util.io.HttpRequests$RequestImpl.getInputStream(HttpRequests.java:298)
+	at com.intellij.util.io.HttpRequests$RequestImpl.getReader(HttpRequests.java:316)
+	at com.intellij.util.io.HttpRequests$RequestImpl.getReader(HttpRequests.java:309)
+	at com.intellij.openapi.updateSettings.impl.UpdateChecker$checkPlatformUpdate$1.process(UpdateChecker.kt:178)
+	at com.intellij.openapi.updateSettings.impl.UpdateChecker$checkPlatformUpdate$1.process(UpdateChecker.kt:65)
+	at com.intellij.util.io.HttpRequests.lambda$doProcess$0(HttpRequests.java:420)
+	at com.intellij.util.net.ssl.CertificateManager.runWithUntrustedCertificateStrategy(CertificateManager.java:349)
+	at com.intellij.util.io.HttpRequests.doProcess(HttpRequests.java:420)
+	at com.intellij.util.io.HttpRequests.process(HttpRequests.java:395)
+	at com.intellij.util.io.HttpRequests.access$100(HttpRequests.java:61)
+	at com.intellij.util.io.HttpRequests$RequestBuilderImpl.connect(HttpRequests.java:263)
+	at com.intellij.openapi.updateSettings.impl.UpdateChecker.a(UpdateChecker.kt:176)
+	at com.intellij.openapi.updateSettings.impl.UpdateChecker.a(UpdateChecker.kt:122)
+	at com.intellij.openapi.updateSettings.impl.UpdateChecker.access$doUpdateAndShowResult(UpdateChecker.kt:65)
+	at com.intellij.openapi.updateSettings.impl.UpdateChecker$updateAndShowResult$1.run(UpdateChecker.kt:91)
+	at com.intellij.openapi.application.impl.ApplicationImpl$2.run(ApplicationImpl.java:334)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+2018-02-28 15:47:58,856 [  61744]   INFO - ateSettings.impl.UpdateChecker - Connection failed (www.jetbrains.com). Please check network connection and try again. 
+2018-02-28 15:48:05,348 [  68236]   INFO - ellij.project.impl.ProjectImpl - 107 project components initialized in 3507 ms 
+2018-02-28 15:48:05,530 [  68418]   INFO - le.impl.ModuleManagerComponent - 1 module(s) loaded in 168 ms 
+2018-02-28 15:48:06,426 [  69314]   WARN - om.intellij.util.ProfilingUtil - Profiling agent is not enabled. Add -agentlib:yjpagent to idea.vmoptions if necessary to profile IDEA. 
+2018-02-28 15:48:08,216 [  71104]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 111ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-02-28 15:48:09,476 [  72364]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 1259ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-02-28 15:48:09,492 [  72380]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update started: 252 files to update 
+2018-02-28 15:48:09,750 [  72638]   INFO - tartup.impl.StartupManagerImpl - OpenFilesActivity run in 1703 
+2018-02-28 15:48:10,058 [  72946]   INFO - tartup.impl.StartupManagerImpl - InitToolWindowsActivity run in 305 
+2018-02-28 15:48:11,858 [  74746]   INFO - tartup.impl.StartupManagerImpl - /home/dushn/CLionProjects/testing-orm2/.idea case-sensitivity: expected=true actual=true 
+2018-02-28 15:48:13,339 [  76227]   INFO - tor.impl.FileEditorManagerImpl - Project opening took 11610 ms 
+2018-02-28 15:48:13,720 [  76608]   INFO -        #com.jetbrains.cidr.cpp - CMake will be regenerated since generated dir was used for another project from: /home/dushn/CLionProjects/testing 
+2018-02-28 15:48:13,853 [  76741]   INFO -        #com.jetbrains.cidr.cpp - Executing CMake: /home/dushn/clion/clion-2017.1.3/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/dushn/CLionProjects/testing-orm2 
+2018-02-28 15:48:19,388 [  82276]   INFO -        #com.jetbrains.cidr.cpp - CMake exit code: 0 for command: /home/dushn/clion/clion-2017.1.3/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/dushn/CLionProjects/testing-orm2 
+2018-02-28 15:48:19,389 [  82277]   INFO -        #com.jetbrains.cidr.cpp - CMake generation for Debug took 5s 567ms 
+2018-02-28 15:48:19,724 [  82612]   INFO -        #com.jetbrains.cidr.cpp - CMake generation took 6s 142ms 
+2018-02-28 15:48:20,991 [  83879]   INFO - pl.ProjectRootManagerComponent - project roots have changed 
+2018-02-28 15:48:21,042 [  83930]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update canceled 
+2018-02-28 15:48:21,960 [  84848]   INFO -       #com.jetbrains.cidr.lang - Building Module Maps finished in 0 s. 
+2018-02-28 15:48:22,130 [  85018]   INFO -       #com.jetbrains.cidr.lang - Clearing symbols finished in 0 s. 
+2018-02-28 15:48:22,331 [  85219]   INFO -       #com.jetbrains.cidr.lang - Loading symbols finished in 0 s. 
+2018-02-28 15:49:10,275 [ 133163]   INFO -       #com.jetbrains.cidr.lang - Building symbols finished in 47 s. 
+2018-02-28 15:49:12,286 [ 135174]   INFO - .script.IdeScriptEngineManager - javax.script.ScriptEngineManager initialized in 79 ms 
+2018-02-28 15:49:15,063 [ 137951]   INFO -       #com.jetbrains.cidr.lang - Saving symbols finished in 4 s. 
+2018-02-28 15:49:15,075 [ 137963]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 0ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-02-28 15:50:04,393 [ 187281]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 49318ms; general responsiveness: ok; EDT responsiveness: 5/49 sluggish, 8/49 very slow 
+2018-02-28 15:50:04,436 [ 187324]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update started: 19626 files to update 
+2018-02-28 15:51:49,306 [ 292194]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update canceled 
+2018-02-28 15:51:49,754 [ 292642]   INFO - ellij.project.impl.ProjectImpl - 107 project components initialized in 441 ms 
+2018-02-28 15:51:49,893 [ 292781]   INFO - le.impl.ModuleManagerComponent - 1 module(s) loaded in 131 ms 
+2018-02-28 15:51:50,694 [ 293582]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 61ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-02-28 15:51:50,773 [ 293661]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 78ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-02-28 15:51:50,774 [ 293662]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update started: 243 files to update 
+2018-02-28 15:51:50,838 [ 293726]   INFO - tartup.impl.StartupManagerImpl - OpenFilesActivity run in 388 
+2018-02-28 15:51:51,080 [ 293968]   INFO - tartup.impl.StartupManagerImpl - InitToolWindowsActivity run in 242 
+2018-02-28 15:51:51,912 [ 294800]   INFO - tartup.impl.StartupManagerImpl - /home/dushn/Desktop/ORM2_T/.idea case-sensitivity: expected=true actual=true 
+2018-02-28 15:51:53,817 [ 296705]   INFO - tor.impl.FileEditorManagerImpl - Project opening took 4526 ms 
+2018-02-28 15:51:54,501 [ 297389]   INFO -        #com.jetbrains.cidr.cpp - Executing CMake: /home/dushn/clion/clion-2017.1.3/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/dushn/Desktop/ORM2_T 
+2018-02-28 15:51:55,127 [ 298015]   INFO -        #com.jetbrains.cidr.cpp - CMake exit code: 0 for command: /home/dushn/clion/clion-2017.1.3/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/dushn/Desktop/ORM2_T 
+2018-02-28 15:51:55,127 [ 298015]   INFO -        #com.jetbrains.cidr.cpp - CMake generation for Debug took 656ms 
+2018-02-28 15:51:55,472 [ 298360]   INFO -        #com.jetbrains.cidr.cpp - CMake generation took 1s 81ms 
+2018-02-28 15:51:55,896 [ 298784]   INFO - pl.ProjectRootManagerComponent - project roots have changed 
+2018-02-28 15:51:55,936 [ 298824]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update canceled 
+2018-02-28 15:51:56,194 [ 299082]   INFO -       #com.jetbrains.cidr.lang - Building Module Maps finished in 0 s. 
+2018-02-28 15:51:56,381 [ 299269]   INFO -       #com.jetbrains.cidr.lang - Clearing symbols finished in 0 s. 
+2018-02-28 15:51:56,965 [ 299853]   INFO -       #com.jetbrains.cidr.lang - Loading symbols finished in 0 s. 
+2018-02-28 15:52:16,133 [ 319021]   INFO -       #com.jetbrains.cidr.lang - Building symbols finished in 19 s. 
+2018-02-28 15:52:17,842 [ 320730]   INFO -       #com.jetbrains.cidr.lang - Saving symbols finished in 1 s. 
+2018-02-28 15:52:17,890 [ 320778]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 0ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-02-28 15:52:18,883 [ 321771]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 993ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-02-28 15:52:18,902 [ 321790]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update started: 6499 files to update 
+2018-02-28 15:52:33,399 [ 336287]   INFO - ellij.vfs.persistent.FSRecords - Contents:16384 of 95331987, reuses:1269 of 10065989 for 815 
+2018-02-28 15:52:57,350 [ 360238]   INFO - .diagnostic.PerformanceWatcher - Unindexed files update took 38448ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-02-28 15:52:57,389 [ 360277]   INFO -       #com.jetbrains.cidr.lang - Clearing symbols finished in 0 s. 
+2018-02-28 15:53:00,826 [ 363714]   INFO -       #com.jetbrains.cidr.lang - Loading symbols finished in 3 s. 
+2018-02-28 15:53:00,834 [ 363722]   INFO -       #com.jetbrains.cidr.lang - Building symbols finished in 0 s. 
+2018-02-28 15:53:00,834 [ 363722]   INFO -       #com.jetbrains.cidr.lang - Saving symbols finished in 0 s. 
+2018-02-28 15:53:14,534 [ 377422]   INFO -        #com.jetbrains.cidr.cpp - Building: /home/dushn/clion/clion-2017.1.3/bin/cmake/bin/cmake --build /home/dushn/Desktop/ORM2_T/cmake-build-debug --target ORM2_T -- -j 1 
+2018-02-28 15:58:11,488 [ 674376]   INFO -        #com.jetbrains.cidr.cpp - Building: /home/dushn/clion/clion-2017.1.3/bin/cmake/bin/cmake --build /home/dushn/Desktop/ORM2_T/cmake-build-debug --target ORM2_T -- -j 1 
+2018-02-28 16:03:41,394 [1004282]   INFO - ellij.project.impl.ProjectImpl - 107 project components initialized in 278 ms 
+2018-02-28 16:03:41,395 [1004283]   INFO - le.impl.ModuleManagerComponent - 0 module(s) loaded in 0 ms 
+2018-02-28 16:03:41,461 [1004349]   INFO - i.vcs.changes.ChangeListWorker - default list not found when copy 
+2018-02-28 16:03:41,461 [1004349]   INFO - i.vcs.changes.ChangeListWorker - default list not found when copy in original object too 
+2018-02-28 16:03:42,450 [1005338]   INFO - Tools.base.JsbtStartupActivity - Detecting buildfiles for com.intellij.lang.javascript.buildTools.grunt.GruntfileManager 
+2018-02-28 16:03:42,450 [1005338]   INFO - Tools.base.JsbtStartupActivity - Detecting buildfiles for com.intellij.lang.javascript.buildTools.gulp.GulpfileManager 
+2018-02-28 16:03:42,451 [1005339]   INFO - Tools.base.JsbtStartupActivity - Detecting buildfiles for com.intellij.lang.javascript.buildTools.npm.PackageJsonFileManager 
+2018-02-28 16:03:42,932 [1005820]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 32ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-02-28 16:03:43,002 [1005890]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 58ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-02-28 16:03:43,253 [1006141]   INFO - pl.ProjectRootManagerComponent - project roots have changed 
+2018-02-28 16:03:43,737 [1006625]   INFO - tartup.impl.StartupManagerImpl - /root/CLionProjects/ORM2_CLIENT/.idea case-sensitivity: expected=true actual=true 
+2018-02-28 16:03:43,939 [1006827]   INFO -       #com.jetbrains.cidr.lang - Clearing symbols finished in 0 s. 
+2018-02-28 16:03:43,940 [1006828]   INFO -       #com.jetbrains.cidr.lang - Loading symbols finished in 0 s. 
+2018-02-28 16:03:43,958 [1006846]   INFO -       #com.jetbrains.cidr.lang - Building symbols finished in 0 s. 
+2018-02-28 16:03:43,971 [1006859]   INFO -       #com.jetbrains.cidr.lang - Saving symbols finished in 0 s. 
+2018-02-28 16:03:43,980 [1006868]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 0ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-02-28 16:03:43,987 [1006875]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 7ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-02-28 16:03:43,987 [1006875]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update started: 2 files to update 
+2018-02-28 16:03:44,023 [1006911]   INFO - Tools.base.JsbtStartupActivity - Found [] for com.intellij.lang.javascript.buildTools.grunt.GruntService 
+2018-02-28 16:03:44,024 [1006912]   INFO - Tools.base.JsbtStartupActivity - Found [] for com.intellij.lang.javascript.buildTools.gulp.GulpService 
+2018-02-28 16:03:44,025 [1006913]   INFO - Tools.base.JsbtStartupActivity - Found [] for com.intellij.lang.javascript.buildTools.npm.NpmScriptsService 
+2018-02-28 16:03:44,155 [1007043]   INFO - tor.impl.FileEditorManagerImpl - Project opening took 3092 ms 
+2018-02-28 16:03:44,379 [1007267]   INFO - .diagnostic.PerformanceWatcher - Unindexed files update took 392ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-02-28 16:03:44,550 [1007438]   INFO -        #com.jetbrains.cidr.cpp - CMake will be regenerated due to environment change. New environment: Options: 
+CMake: 3.7.2@/home/dushn/clion/clion-2017.1.3/bin/cmake/bin/cmake
+ Old environment: null 
+2018-02-28 16:03:44,551 [1007439]   INFO -        #com.jetbrains.cidr.cpp - Executing CMake: /home/dushn/clion/clion-2017.1.3/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /root/CLionProjects/ORM2_CLIENT 
+2018-02-28 16:03:51,384 [1014272]   INFO -        #com.jetbrains.cidr.cpp - CMake exit code: 0 for command: /home/dushn/clion/clion-2017.1.3/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /root/CLionProjects/ORM2_CLIENT 
+2018-02-28 16:03:51,385 [1014273]   INFO -        #com.jetbrains.cidr.cpp - CMake generation for Debug took 6s 834ms 
+2018-02-28 16:03:51,474 [1014362]   INFO -        #com.jetbrains.cidr.cpp - CMake generation took 6s 937ms 
+2018-02-28 16:03:51,642 [1014530]   INFO - pl.ProjectRootManagerComponent - project roots have changed 
+2018-02-28 16:03:51,762 [1014650]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 32ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-02-28 16:03:52,485 [1015373]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 723ms; general responsiveness: ok; EDT responsiveness: ok 
+2018-02-28 16:03:52,493 [1015381]   INFO -       #com.jetbrains.cidr.lang - Clearing symbols finished in 0 s. 
+2018-02-28 16:03:52,594 [1015482]   INFO -       #com.jetbrains.cidr.lang - Loading symbols finished in 0 s. 
+2018-02-28 16:04:08,609 [1031497]   INFO -       #com.jetbrains.cidr.lang - Building symbols finished in 16 s. 
+2018-02-28 16:04:09,878 [1032766]   INFO -       #com.jetbrains.cidr.lang - Saving symbols finished in 1 s. 
+2018-02-28 16:05:10,455 [1093343]   INFO -        #com.jetbrains.cidr.cpp - Executing CMake: /home/dushn/clion/clion-2017.1.3/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /root/CLionProjects/ORM2_CLIENT 
+2018-02-28 16:05:10,590 [1093478]   INFO -        #com.jetbrains.cidr.cpp - CMake exit code: 1 for command: /home/dushn/clion/clion-2017.1.3/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /root/CLionProjects/ORM2_CLIENT 
+2018-02-28 16:05:10,590 [1093478]   INFO -        #com.jetbrains.cidr.cpp - CMake generation for Debug took 135ms 
+2018-02-28 16:05:10,753 [1093641]   INFO -        #com.jetbrains.cidr.cpp - CMake generation took 346ms 
+2018-02-28 16:05:11,240 [1094128]   INFO -       #com.jetbrains.cidr.lang - Clearing symbols finished in 0 s. 
+2018-02-28 16:05:13,123 [1096011]   INFO -       #com.jetbrains.cidr.lang - Loading symbols finished in 1 s. 
+2018-02-28 16:05:14,021 [1096909]   INFO -       #com.jetbrains.cidr.lang - Building symbols finished in 0 s. 
+2018-02-28 16:05:14,192 [1097080]   INFO -       #com.jetbrains.cidr.lang - Saving symbols finished in 0 s. 
+2018-02-28 16:05:19,346 [1102234]   INFO -        #com.jetbrains.cidr.cpp - Executing CMake: /home/dushn/clion/clion-2017.1.3/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /root/CLionProjects/ORM2_CLIENT 
+2018-02-28 16:05:19,509 [1102397]   INFO -        #com.jetbrains.cidr.cpp - CMake exit code: 0 for command: /home/dushn/clion/clion-2017.1.3/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /root/CLionProjects/ORM2_CLIENT 
+2018-02-28 16:05:19,509 [1102397]   INFO -        #com.jetbrains.cidr.cpp - CMake generation for Debug took 163ms 
+2018-02-28 16:05:19,663 [1102551]   INFO -        #com.jetbrains.cidr.cpp - CMake generation took 357ms 
+2018-02-28 16:05:19,969 [1102857]   INFO -       #com.jetbrains.cidr.lang - Clearing symbols finished in 0 s. 
+2018-02-28 16:05:21,365 [1104253]   INFO -       #com.jetbrains.cidr.lang - Loading symbols finished in 1 s. 
+2018-02-28 16:05:21,366 [1104254]   INFO -       #com.jetbrains.cidr.lang - Building symbols finished in 0 s. 
+2018-02-28 16:05:21,371 [1104259]   INFO -       #com.jetbrains.cidr.lang - Saving symbols finished in 0 s. 
+2018-02-28 16:05:25,504 [1108392]   INFO -        #com.jetbrains.cidr.cpp - Building: /home/dushn/clion/clion-2017.1.3/bin/cmake/bin/cmake --build /root/CLionProjects/ORM2_CLIENT/cmake-build-debug --target ORM2_CLIENT -- -j 1 
+2018-02-28 16:06:04,208 [1147096]   INFO -        #com.jetbrains.cidr.cpp - Building: /home/dushn/clion/clion-2017.1.3/bin/cmake/bin/cmake --build /root/CLionProjects/ORM2_CLIENT/cmake-build-debug --target ORM2_CLIENT -- -j 1 
+2018-02-28 16:06:38,723 [1181611]   INFO -        #com.jetbrains.cidr.cpp - Building: /home/dushn/clion/clion-2017.1.3/bin/cmake/bin/cmake --build /root/CLionProjects/ORM2_CLIENT/cmake-build-debug --target ORM2_CLIENT -- -j 1 
+2018-02-28 16:07:07,038 [1209926]   INFO -        #com.jetbrains.cidr.cpp - Building: /home/dushn/clion/clion-2017.1.3/bin/cmake/bin/cmake --build /root/CLionProjects/ORM2_CLIENT/cmake-build-debug --target ORM2_CLIENT -- -j 1 
+2018-02-28 16:07:43,106 [1245994]   INFO -        #com.jetbrains.cidr.cpp - Building: /home/dushn/clion/clion-2017.1.3/bin/cmake/bin/cmake --build /root/CLionProjects/ORM2_CLIENT/cmake-build-debug --target ORM2_CLIENT -- -j 1 
+2018-02-28 16:07:54,061 [1256949]   INFO -        #com.jetbrains.cidr.cpp - Building: /home/dushn/clion/clion-2017.1.3/bin/cmake/bin/cmake --build /root/CLionProjects/ORM2_CLIENT/cmake-build-debug --target ORM2_CLIENT -- -j 1 

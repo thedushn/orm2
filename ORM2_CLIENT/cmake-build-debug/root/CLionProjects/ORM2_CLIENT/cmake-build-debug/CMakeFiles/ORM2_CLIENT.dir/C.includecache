@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/CLionProjects/ORM2_CLIENT/main.c
+stdlib.h
+-
+netinet/in.h
+-
+time.h
+-
+string.h
+-
+pcap.h
+/root/CLionProjects/ORM2_CLIENT/pcap.h
+
